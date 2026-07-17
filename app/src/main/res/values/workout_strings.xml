@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="workout_back">Back</string>
+
+    <string name="workout_default_emoji">🏃</string>
+
+    <string name="workout_default_activity_name">Running</string>
+
+    <string name="workout_default_level_description">
+        Choose your workout level.
+    </string>
+
+    <string name="workout_choose_level_title">
+        Choose workout level
+    </string>
+
+    <string name="workout_choose_level_instruction">
+        Tap one level. The button below starts the activity.
+    </string>
+
+    <string name="workout_choose_level_hint">
+        Choose a level
+    </string>
+
+    <string name="workout_start_activity">
+        Start Activity
+    </string>
+
+</resources>
